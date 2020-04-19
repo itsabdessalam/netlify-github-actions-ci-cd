@@ -1,24 +1,11 @@
-# netlify-github-actions-ci-cd
+# Mettre en place un CI/CD avec GitHub Actions et Netlify
 
-## Project setup
-```
-npm install
-```
+<https://abdessalam-benharira.me/ci-cd-github-actions-netlify>
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+`test.yml`
 
-### Compiles and minifies for production
-```
-npm run build
-```
+<https://gist.github.com/abdessalamb98/0797bde0135e9be1e9579913a4be2755>
 
-### Lints and fixes files
-```
-npm run lint
-```
+`production.yml`
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+<https://gist.github.com/abdessalamb98/dfd8d7a4b1edb549bb5314fc2427fe34>
